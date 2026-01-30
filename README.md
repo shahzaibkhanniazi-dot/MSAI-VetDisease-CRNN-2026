@@ -17,3 +17,4 @@ This repository contains a from-scratch implementation of a CRNN for veterinary 
 - `Documentation/`: Project Initial Doc & Timeline.
 - `Data/`: Placeholder for Drive-mounted dataset.
 - `Scripts/`: Training and Model architecture.
+"Data Acquisition: Downloaded and organized Veterinary skin disease dataset into 4 classes."
