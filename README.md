@@ -60,3 +60,11 @@ Implemented to visualize class-specific performance and identify common misclass
 ### Live Inference:
 Created a visualization script to show the model's "sight" and confidence percentage on new images.
 
+### Team Details
+### Student Name: 
+### SHAHZAIB KHAN  
+### U92-MSAIW-S25-019
+
+### Student Name: 
+### TALHA BIN ASLAM 
+### Student ID: SU92-MSAIW-F25-043
