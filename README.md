@@ -3,7 +3,7 @@ Veterinary Disease Detection using CRNN (Convolutional Recurrent Neural Network)
 ### 🐾 Veterinary Disease Detection via Custom CRNN
 Domain: Veterinary | Algorithm: CRNN | Goal: >75% Accuracy | Status: Completed
 
-##3📌 Project Overview
+###3📌 Project Overview
 This repository hosts a from-scratch implementation of a Convolutional Recurrent Neural Network (CRNN) designed for automated veterinary diagnostics. By combining the spatial feature extraction of CNNs with the sequential pattern recognition of GRUs, this model provides a robust solution for classifying common animal skin conditions, contributing directly to UN SDG 3: Good Health and Well-being.
 
 ### 🎯 Key Objectives
